@@ -8,7 +8,7 @@ Visualization of Farmer's Information such as age,farm size, agents, loans taken
 
 ii. CoronaVirus Dashboard
 ![Screenshot (57)](https://user-images.githubusercontent.com/84006820/157276216-0e80d899-e0e6-4a38-a00d-09898fa2b371.png)
- Visualization of Corona Virus Pandemic as at 26 July 2021 details like number of countries affected, confirmed cases and deaths.
+ Visualization of Corona Virus Pandemic as at 26 July 2021, details like number of countries affected, confirmed cases and deaths.
  
 iii. Transactions Dashboard![Screenshot (58)](https://user-images.githubusercontent.com/84006820/157281909-6e07be02-ed3c-4ba0-aa3f-a86a190a0563.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/84006820/157281916-478ced2a-b8b1-4e39-8939-4b9bece32cfd.png)
@@ -22,7 +22,7 @@ Visualization of Number of customers using the different payment channels and th
 iv. Monitoring And Evaluation Dashboard
 ![Screenshot (65)](https://user-images.githubusercontent.com/84006820/157292647-3eb31526-a5b7-431c-9aeb-e8d45432b11a.png)
 
-Visualing the monitoring and evaluation dataset of AgroMall details like Pending Visits, Number of States visited e.t.c
+Visualing the monitoring and evaluation dataset of AgroMall, details like Pending Visits, Number of States visited e.t.c
 
 v. Olympics Dashboard
 ![Screenshot (63)](https://user-images.githubusercontent.com/84006820/157292749-b8293c44-f47a-4d83-9220-ea4c14118ce5.png)
@@ -33,9 +33,14 @@ Analyzing and visualizing the olympics dataset to derive insights, identify patt
 vi. Logistics Dashboard
 ![Screenshot (68)](https://user-images.githubusercontent.com/84006820/157294506-e5284dad-472e-44ff-9267-831a28188da0.png)
 
+Analyzing and visualizing the logistics transport data of AgroMall, details like different truck vendors, products available for movement and status of truck vendor.
+
 vii. Input Distribution Dashboard
 ![Screenshot (73)](https://user-images.githubusercontent.com/84006820/157294994-8df10871-22d5-4ebd-a2c9-dfca0d521b94.png)
+
+Visualizing the input distribution data of AgroMall, details like farmers that have collected input, states that have been covered and agents active per state.
 
 viii. Farmers Latest Dashboard
 ![Screenshot (72)](https://user-images.githubusercontent.com/84006820/157295193-403317a5-7ef0-42b0-b26f-2221bcbec969.png)
 
+Analyzing and visualizing updated farmers informationa like number of farmers, farm size and states
